@@ -28,12 +28,11 @@
 ### 디자인 통일(다음시간까지 바꿔오기)
 
          기본 배경색: #C695DEFF
-         버튼색: 
-         글자색: 
          
 ## DB
 #### <회원정보>
          아이디, 비밀번호, 이름, 핸드폰, 학교이메일, 닉네임
+<img width="500" src=https://user-images.githubusercontent.com/80022793/114443009-2c30d000-9c08-11eb-88c5-183ec1fcd9f8.png>
 
 #### <과목>
          학수번호, 분반, 전공영역, 강의명, 교수명, 교실, 강의요일, 강의시간, 학점
@@ -57,6 +56,8 @@
          -댓글
          
          댓글번호, 게시판번호, 내용, 익명T/F
+<p align="center"><img width="500" src=https://user-images.githubusercontent.com/80022793/114443013-2cc96680-9c08-11eb-89f9-ea147e579f22.png>
+<img width="500 src=></p>
 
 #### <채팅>
          -메세지
@@ -73,9 +74,12 @@
          출발장소, 도착장소, 탑승시간, 탑승인원
 
          -채팅
+<p align="center"><img width="500" src=https://user-images.githubusercontent.com/80022793/114443014-2d61fd00-9c08-11eb-9bac-bc71a34daaa3.png>
+<img width="500" src=></p>
          
 #### 버스
          -(api적용 후 db설계 예정)
+         
          
 ## 현재까지 구성된 Layout
 <p align="center">
