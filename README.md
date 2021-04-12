@@ -75,8 +75,8 @@
          출발장소, 도착장소, 탑승시간, 탑승인원
 
          -채팅
-<p align="center"><img width="500" src=https://user-images.githubusercontent.com/80022793/114443014-2d61fd00-9c08-11eb-9bac-bc71a34daaa3.png>
-<img width="500" src=></p>
+         
+<img width="500" src=https://user-images.githubusercontent.com/80022793/114443014-2d61fd00-9c08-11eb-9bac-bc71a34daaa3.png>
          
 #### 버스
          -(api적용 후 db설계 예정)
