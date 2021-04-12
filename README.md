@@ -55,11 +55,8 @@
 
          -댓글
          
-         댓글번호, 게시판번호, 내용, 익명T/F
-         
+         댓글번호, 게시판번호, 내용, 익명T/F       
 <img width="500" src=https://user-images.githubusercontent.com/80022793/114443013-2cc96680-9c08-11eb-89f9-ea147e579f22.png>
-
-
 #### <채팅>
          -메세지
          
@@ -68,17 +65,14 @@
          -채팅방 초대
          
          채팅방ID, 채팅방타입, 아이디(초대한사람), 아이디(초대된사람)...
-<img width="500" src=https://user-images.githubusercontent.com/80022793/114444892-57b4ba00-9c0a-11eb-953e-9130b9982d06.png>
-         
+<img width="500" src=https://user-images.githubusercontent.com/80022793/114444892-57b4ba00-9c0a-11eb-953e-9130b9982d06.png>  
 #### 택시
          -모집글
          
          출발장소, 도착장소, 탑승시간, 탑승인원
 
          -채팅
-         
 <img width="500" src=https://user-images.githubusercontent.com/80022793/114443014-2d61fd00-9c08-11eb-9bac-bc71a34daaa3.png>
-         
 #### 버스
          -(api적용 후 db설계 예정)
          
