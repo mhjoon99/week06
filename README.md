@@ -57,8 +57,8 @@
          
          댓글번호, 게시판번호, 내용, 익명T/F
          
-<p align="center"><img width="500" src=https://user-images.githubusercontent.com/80022793/114443013-2cc96680-9c08-11eb-89f9-ea147e579f22.png>
-<img width="500 src=></p>
+<img width="500" src=https://user-images.githubusercontent.com/80022793/114443013-2cc96680-9c08-11eb-89f9-ea147e579f22.png>
+
 
 #### <채팅>
          -메세지
@@ -68,6 +68,7 @@
          -채팅방 초대
          
          채팅방ID, 채팅방타입, 아이디(초대한사람), 아이디(초대된사람)...
+<img width="500" src=https://user-images.githubusercontent.com/80022793/114444892-57b4ba00-9c0a-11eb-953e-9130b9982d06.png>
          
 #### 택시
          -모집글
