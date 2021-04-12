@@ -76,6 +76,11 @@
          
 #### 버스
          -(api적용 후 db설계 예정)
+         
+## 현재까지 구성된 Layout
+<p align="center">
+  <img width="350" alt="2021-04-06_12 16 01" src=https://user-images.githubusercontent.com/80022793/114441016-d1967480-9c05-11eb-99b0-917ebd95205b.png>
+</p>
 
          
 ## 다음주까지 할 일
