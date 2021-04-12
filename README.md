@@ -56,6 +56,7 @@
          -댓글
          
          댓글번호, 게시판번호, 내용, 익명T/F
+         
 <p align="center"><img width="500" src=https://user-images.githubusercontent.com/80022793/114443013-2cc96680-9c08-11eb-89f9-ea147e579f22.png>
 <img width="500 src=></p>
 
