@@ -79,9 +79,24 @@
          
 ## 현재까지 구성된 Layout
 <p align="center">
-  <img width="350" alt="2021-04-06_12 16 01" src=https://user-images.githubusercontent.com/80022793/114441016-d1967480-9c05-11eb-99b0-917ebd95205b.png>
-  <img width="350" alt="2021-04-06_12 16 01" src=https://user-images.githubusercontent.com/80022793/114441023-d3603800-9c05-11eb-89a4-278b994b0df7.png>
-  <img width="350" alt="2021-04-06_12 16 01" src=
+  <img width="140"  src=https://user-images.githubusercontent.com/80022793/114441016-d1967480-9c05-11eb-99b0-917ebd95205b.png>
+  <img width="140"  src=https://user-images.githubusercontent.com/80022793/114441023-d3603800-9c05-11eb-89a4-278b994b0df7.png>
+  <img width="140"  src=https://user-images.githubusercontent.com/80022793/114441036-d78c5580-9c05-11eb-9fc5-4de4176fac9b.png>
+</p>
+<p align="center">
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441053-da874600-9c05-11eb-9566-f1161d4e568d.PNG>
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441051-da874600-9c05-11eb-9760-966273342bb8.png>
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441054-db1fdc80-9c05-11eb-90cd-3270abdd8a36.PNG>
+</p>
+<p align="center">
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441039-d824ec00-9c05-11eb-8139-e01e85f06bfc.png>
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441042-d8bd8280-9c05-11eb-8119-d3e1ec0fa8e3.png>
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441044-d9561900-9c05-11eb-8f41-bd66bd4d697e.jpg>
+</p>
+<p align="center">
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441046-d9561900-9c05-11eb-9991-4ea16fa542aa.jpg>
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441049-d9eeaf80-9c05-11eb-80cc-f38803df2085.png>
+  <img width="140" src=https://user-images.githubusercontent.com/80022793/114441050-d9eeaf80-9c05-11eb-8ce1-f8604c3bdf4a.png>
 </p>
 
          
